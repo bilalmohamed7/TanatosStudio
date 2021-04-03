@@ -1,0 +1,5 @@
+
+            
+            
+            //$('.client:first').hasClass('active') ? leftArrow.fadeOut() : leftArrow.fadeIn();
+            //$('.client:last').hasClass('active') ? rightArrow.fadeOut() : rightArrow.fadeIn();
